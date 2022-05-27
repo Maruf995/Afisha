@@ -24,3 +24,4 @@ class ReviewSerializers(serializers.ModelSerializer):
     class Meta:
         model = models.Review
         fields = "__all__"
+
